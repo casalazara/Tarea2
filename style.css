@@ -1,0 +1,28 @@
+.banner{
+    background-color:#7a593e;
+    color: white;
+    height:15vh;
+}
+
+.footer{
+    background-color:#7a593e;
+    color: white;
+}
+
+.topMenu{
+    background-color:rgb(204, 146, 122);
+}
+
+.lateral{
+    background-color:orange;
+    color: black;
+    height:15vh;
+}
+
+.rosa{
+    background-color:palevioletred;
+}
+
+.azul{
+    background-color:#00CED1;
+}
