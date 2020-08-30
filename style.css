@@ -1,6 +1,5 @@
 .banner{
     background-color:#7a593e;
-    color: white;
     height:15vh;
 }
 
@@ -26,3 +25,11 @@
 .azul{
     background-color:#00CED1;
 }
+
+.mainContent {
+    height: 270px;
+    line-height: 270px;
+}
+
+
+
